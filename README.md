@@ -14,4 +14,6 @@ Edit the line begining serial_port to specify the name of your serial port befor
 
 Edit the button assignment to the buttons on your tablet. In particular modify the ABS REL to the last 2 buttons on your tablet, no 31 and 32 is for the 12x18" inch tablet 
 
+By default, the first 6 tablet buttons are set to control the mapping of the tablet to the desktop.
+
 
